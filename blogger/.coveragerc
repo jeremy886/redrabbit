@@ -1,0 +1,3 @@
+[run]
+source = blogger
+omit = blogger/test*
